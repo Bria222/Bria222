@@ -1,9 +1,6 @@
-### Hi there 👋
+### Hi There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!--
-**Bria222/Bria222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +10,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bria222&show_icons=true&theme=radical)
+
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+
