@@ -25,7 +25,9 @@
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-brian-nyachae-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/brian-nyachae-b99492232)
+- :mailbox:How to reach me:  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
 
 
 
