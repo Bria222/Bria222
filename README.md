@@ -19,7 +19,7 @@
 ## Hi There! I am Brian Nyachae <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 ## I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> from Kenya.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: Software Engineer focused on full-stack development, contributing to frontend, backend, and mobile application development for scalable products..
 
 - :seedling: Exploring machine learning algorithms.
 
